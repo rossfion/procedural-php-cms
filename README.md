@@ -10,6 +10,6 @@ There is much room for improvement. However, it does include sections for posts,
 
 It uses Bootstrap 3.3.7, for both front and backend. I chose to use AdminLTE version 2.4.2 which works well with Bootstrap 3. Besides, I like it.
 
-The only third-party plugin used is the Bootstrap datepicker which comes with AdminLTE v-2.4.2.
+The Bootstrap datepicker, which comes with AdminLTE v-2.4.2, is included.
 
 Also, the static homepage is not "responsive".
